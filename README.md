@@ -4,9 +4,7 @@ The repository contains the code for PVHD，the baseline for comparison, and Sep
 
 ### PLATO
 
-We employ
- * PLATO, uncased model: 12-layers, 768-hidden, 12-heads, 132M parameters 
-fine-tuning on two datasets.
+We employ PLATO (uncased model: 12-layers, 768-hidden, 12-heads, 132M parameters) fine-tuning on two datasets.
 
 
 
