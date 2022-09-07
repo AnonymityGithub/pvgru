@@ -86,5 +86,5 @@ sh scripts/DailyDialog/topk_infer.sh
 
 ### Evaluation
 ```
-python pvgru/eval_tool.py --corpus DailyDialog --result_file predictons.json
+python pvgru/PVGRU/eval_tool.py --corpus DailyDialog --result_file predictons.json
 ```
