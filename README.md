@@ -1,6 +1,6 @@
 ### PVGRU
 
-The repository contains the code for PVHD，the baseline for comparison, and SepaCVAE, where the code for SepaCVAE is provided by the original author of the paper [1].
+The repository contains the code for PVHD，the baseline for comparison, and SepaCVAE, where the code for SepaCVAE is provided by the original author of the paper.
 
 ### PLATO
 
